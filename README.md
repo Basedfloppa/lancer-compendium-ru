@@ -1,6 +1,6 @@
 # Lancer Russian Compendium (Foundry VTT)
 
-Этот модуль добавляет русскоязычный перевод для базовой информации игровой системы **[Lancer](https://massif-press.itch.io/lancer-core-book)** в Foundry VTT.  
+Этот модуль добавляет русскоязычный перевод для базовой информации игровой системы **[Lancer](https://massif-press.itch.io/corebook-pdf)** в Foundry VTT.  
 Перевод выполнен на основе **[Babele](https://foundryvtt.com/packages/babele/)** и требует его установки.
 
 ---
@@ -12,7 +12,7 @@
 2. Нажмите **Install Module**.
 3. Вставьте этот манифест-URL:  
 
-https://raw.githubusercontent.com/Basedfloppa/lancer-compendium-ru/refs/heads/master/module.json
+https://raw.githubusercontent.com/Basedfloppa/lancer-compendium-ru/refs/heads/main/module.json
 
 4. Нажмите **Install**.
 
