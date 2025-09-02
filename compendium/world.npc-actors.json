@@ -1,0 +1,137 @@
+{
+  "label": "NPC Префабы",
+  "entries": {
+    "ACE": {
+      "name": "Туз",
+      "tokenName": "Туз"
+    },
+    "AEGIS": {
+      "name": "Эгида",
+      "tokenName": "Эгида"
+    },
+    "ARCHER": {
+      "name": "Лучник",
+      "tokenName": "Лучник"
+    },
+    "ASSASSIN": {
+      "name": "Ассасин",
+      "tokenName": "Ассасин"
+    },
+    "ASSAULT": {
+      "name": "Штурмовик",
+      "tokenName": "Штурмовик"
+    },
+    "BARRICADE": {
+      "name": "Баррикада",
+      "tokenName": "Баррикада"
+    },
+    "BASTION": {
+      "name": "Бастион",
+      "tokenName": "Бастион"
+    },
+    "BERSERKER": {
+      "name": "Берсерк",
+      "tokenName": "Берсерк"
+    },
+    "BOMBARD": {
+      "name": "Бомбардир",
+      "tokenName": "Бомбардир"
+    },
+    "BREACHER": {
+      "name": "Штурмовик-пробойщик",
+      "tokenName": "Штурмовик-пробойщик"
+    },
+    "CATAPHRACT": {
+      "name": "Катафракт",
+      "tokenName": "Катафракт"
+    },
+    "DEMOLISHER": {
+      "name": "Разрушитель",
+      "tokenName": "Разрушитель"
+    },
+    "ENGINEER": {
+      "name": "Инженер",
+      "tokenName": "Инженер"
+    },
+    "GOLIATH": {
+      "name": "Голиаф",
+      "tokenName": "Голиаф"
+    },
+    "HIVE": {
+      "name": "Улей",
+      "tokenName": "Улей"
+    },
+    "HORNET": {
+      "name": "Шершень",
+      "tokenName": "Шершень"
+    },
+    "HUMAN": {
+      "name": "Человек",
+      "tokenName": "Человек"
+    },
+    "MIRAGE": {
+      "name": "Мираж",
+      "tokenName": "Мираж"
+    },
+    "MONSTROSITY": {
+      "name": "Чудовище",
+      "tokenName": "Чудовище"
+    },
+    "OPERATOR": {
+      "name": "Оператор",
+      "tokenName": "Оператор"
+    },
+    "PRIEST": {
+      "name": "Жрец",
+      "tokenName": "Жрец"
+    },
+    "PYRO": {
+      "name": "Огнемётчик",
+      "tokenName": "Огнемётчик"
+    },
+    "RAINMAKER": {
+      "name": "Дождевик",
+      "tokenName": "Дождевик"
+    },
+    "RONIN": {
+      "name": "Ронин",
+      "tokenName": "Ронин"
+    },
+    "SCOURER": {
+      "name": "Очищающий",
+      "tokenName": "Очищающий"
+    },
+    "SCOUT": {
+      "name": "Разведчик",
+      "tokenName": "Разведчик"
+    },
+    "SEEDER": {
+      "name": "Сеятель",
+      "tokenName": "Сеятель"
+    },
+    "SENTINEL": {
+      "name": "Страж",
+      "tokenName": "Страж"
+    },
+    "SNIPER": {
+      "name": "Снайпер",
+      "tokenName": "Снайпер"
+    },
+    "SPECTER": {
+      "name": "Призрак",
+      "tokenName": "Призрак"
+    },
+    "SQUAD": {
+      "name": "Отряд",
+      "tokenName": "Отряд"
+    },
+    "SUPPORT": {
+      "name": "Поддержка",
+      "tokenName": "Поддержка"
+    },
+    "WITCH": {
+      "name": "Ведьма",
+      "tokenName": "Ведьма"
+    }
+  }
+}
