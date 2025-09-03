@@ -7,7 +7,7 @@
 		"email": "zorissimoxxl2@gmail.com",
 		"discord": "universalfuckup"
 	}],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -29,7 +29,7 @@
   "packs": [],
 
   "languages": [{
-  	"lang": "ru-ru",
+  	"lang": "ru",
     "name": "Russian",
     "path": "ru.json"
   }],
