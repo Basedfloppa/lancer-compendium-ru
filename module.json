@@ -29,7 +29,7 @@
   "packs": [],
 
   "languages": [{
-  	"lang": "ru",
+  	"lang": "ru-ru",
     "name": "Russian",
     "path": "ru.json"
   }],
